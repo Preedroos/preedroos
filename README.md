@@ -15,13 +15,13 @@
   </div>
 </section>
   
-  <br>
+<br>
 
 <div style="display: inline_block"> 
-  <a href="mailto:preedroos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-paulo-fagundes-cabral-bb7432208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="mailto:preedroos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/pedro-paulo-fagundes-cabral-bb7432208/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  </br>
+</br>
 
 ![Snake animation](https://github.com/Preedroos/Preedroos/blob/output/github-contribution-grid-snake.svg)
 </div>
