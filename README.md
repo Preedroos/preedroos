@@ -1,6 +1,6 @@
 ### Im Pedro, feel at ease 😜
 
-<section>
+<section style="display: flex">
   <div style="display: inline">
     <a href="https://github.com/Preedroos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Preedroos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
