@@ -7,7 +7,7 @@
 - 👀 looking for a job
 - 🤓 learning everything
 - 🎓 graduating with a bachelor's degree in computer science at UNIP
-- 🎮 playing Valorant 😳
+- 🎮 playing Riot games 😳
 
 
 <!-- SOCIAL MEDIAS -->
