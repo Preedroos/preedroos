@@ -24,6 +24,7 @@
   <img align="center" alt="C Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
   <img align="center" alt="Java Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Reactjs Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,13 +39,15 @@
 
 <br />
 
-<!-- STATUS -->
+<!-- GITHUB STATUS -->
+### 🔍 GitHub Status:
+<br />
 <section align="center">
   <a href="https://github.com/Preedroos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Preedroos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preedroos&layout=compact&langs_count=7&theme=dark"/>
 </section>
-
+  
 
 <!-- HEATMAP SNAKE -->
 <section align="center">
@@ -52,6 +55,10 @@
   ![Snake animation](https://github.com/Preedroos/Preedroos/blob/output/github-contribution-grid-snake.svg)
   
 </section>
+
+
+<!-- WAVE ANIMATION -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
 <!-- REFERENCES -->
