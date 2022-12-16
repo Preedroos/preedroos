@@ -1,11 +1,19 @@
-## Hi there, I'm Pedro, feel at ease 😜
+```JavaScript
+const greet = "Hi there, I'm Pedro, feel at ease 😜";
 
-<!-- ABOUT -->
-### I'm a "staged" Front-end Developer... so I'm currently
+const about = {
+  name: 'Pedro Paulo Fagundes Cabral',
+  age:  19,
+  contry: 'Brazil',
+  role: '"staged" Front-end Developer',
+};
 
-- 👀 looking for a job
-- 🤓 learning everything
-- 🎓 graduating with a bachelor's degree in computer science at UNIP
+const contact = {
+  email: 'preedroos@gmailcom',
+  twitter: '@preedroos',
+  linkedin: 'pedropfcabral',
+}
+```
 
 <br />
 
