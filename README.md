@@ -105,13 +105,12 @@ const contact = {
 ## 🔍 GitHub Status:
 <br />
 <section align="center">
-  <a href="https://github.com/Preedroos">
   <img height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=Preedroos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Preedroos&show_icons=true&&theme=codeSTACKr&&hide_border=true" />
   <img height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preedroos&layout=compact&langs_count=7&theme=dark&&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preedroos&layout=compact&&theme=codeSTACKr&&hide_border=true" />
   <img height="150em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Preedroos&&theme=dark&&hide_border=true" />
+       src="https://github-readme-streak-stats.herokuapp.com?user=Preedroos&hide_border=true&background=09131B&fire=D8572B&ring=D8572B&currStreakLabel=D8572B&sideLabels=DDDDDD&sideNums=DDDDDD&currStreakNum=DDDDDD&dates=7C7C7C" />
 </section>
   
 
