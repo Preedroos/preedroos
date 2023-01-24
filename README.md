@@ -5,7 +5,7 @@ const about = {
   name: 'Pedro Paulo Fagundes Cabral',
   age:  19,
   contry: 'Brazil',
-  role: '"staged" Front-end Developer',
+  role: 'Front-end Developer',
 };
 
 const contact = {
@@ -66,6 +66,15 @@ const contact = {
            alt="React Icon"           
       />
       <br /><strong>React</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+           width="48"
+           height="48"
+           alt="Python Icon"           
+      />
+      <br /><strong>Python</strong>
     </td>
   </tr>
   <tr>
