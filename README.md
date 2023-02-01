@@ -5,7 +5,7 @@ const about = {
   name: 'Pedro Paulo Fagundes Cabral',
   age:  19,
   contry: 'Brazil',
-  role: 'Software Developer',
+  role: 'Web Developer',
 };
 
 const contact = {
