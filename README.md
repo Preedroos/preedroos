@@ -49,24 +49,6 @@ const contact = {
       />
       <br /><strong>JavaScript</strong>
     </td>
-<!--     <td align="center" width="108" height="108">
-      <img
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-           width="48"
-           height="48"
-           alt="TypeScript Icon"           
-      />
-      <br /><strong>TypeScript</strong>
-    </td> -->
-    <td align="center" width="108" height="108">
-      <img
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-           width="48"
-           height="48"
-           alt="React Icon"           
-      />
-      <br /><strong>React</strong>
-    </td>
     <td align="center" width="108" height="108">
       <img
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -78,15 +60,6 @@ const contact = {
     </td>
   </tr>
   <tr>
-<!--     <td align="center" width="108" height="108">
-      <img
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-           width="48"
-           height="48"
-           alt="Node Icon"           
-      />
-      <br /><strong>Node</strong>
-    </td> -->
     <td align="center" width="108" height="108">
       <img
            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
