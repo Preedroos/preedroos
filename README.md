@@ -5,7 +5,7 @@ const about = {
   name: 'Pedro Paulo Fagundes Cabral',
   age:  20,
   contry: 'Brazil',
-  role: 'Data Scientist',
+  role: 'Software Developer',
 };
 
 const contact = {
@@ -57,6 +57,15 @@ const contact = {
            alt="Python Icon"           
       />
       <br /><strong>Python</strong>
+    </td>
+    <td align="center" width="108" height="108">
+      <img
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+           width="48"
+           height="48"
+           alt="Java Icon"           
+      />
+      <br /><strong>Java</strong>
     </td>
   </tr>
   <tr>
