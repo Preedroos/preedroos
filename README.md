@@ -3,7 +3,7 @@ const greet = "Hi there, I'm Pedro, feel at ease 😜";
 
 const about = {
   name: 'Pedro Paulo Fagundes Cabral',
-  age:  20,
+  age:  21,
   contry: 'Brazil',
   role: 'Software Developer',
 };
