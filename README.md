@@ -1,18 +1,32 @@
-```JavaScript
-const greet = "Hi there, I'm Pedro, feel at ease 😜";
-
-const about = {
-  name: 'Pedro Paulo Fagundes Cabral',
-  age:  21,
-  contry: 'Brazil',
-  role: 'Software Developer',
-};
-
-const contact = {
-  email: 'preedroos@gmailcom',
-  twitter: '@preedroos',
-  linkedin: 'pedropfcabral',
+```Python
+about = {
+    "First Name": "Pedro Paulo",
+    "Last Name": "Fagundes Cabral",
+    "Age": 22,
+    "Country": "Brazil",
+    "Role": "Data & Business Analytics Enthusiast"
 }
+
+contact = {
+    "Email": "preedroos@gmail.com",
+    "Instagram": "@preedroos",
+    "LinkedIn": "pedropfcabral"
+}
+
+greet = f"Hi there, I'm {about["First Name"]}, feel at ease 😜"
+
+def display_info():
+    print(greet)
+    print("\n🔹 About Me:")
+    for key, value in about.items():
+        print(f"  {key}: {value}")
+
+    print("\n🔹 Contact:")
+    for key, value in contact.items():
+        print(f"  {key}: {value}")
+
+if __name__ == "__main__":
+    display_info()
 ```
 
 <br />
